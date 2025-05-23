@@ -1,3 +1,4 @@
+// Este comentario fue añadido para probar Git.
 <?php
 /**
  * Suma dos números enteros.
